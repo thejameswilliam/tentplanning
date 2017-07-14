@@ -1,0 +1,1 @@
+<?php require_once("/Users/jameswjohnson/Documents/tentplanning.com/tentplanning.com/wp-content/plugins/mindshare-api-master/lib/minify-config.php"); ?>
